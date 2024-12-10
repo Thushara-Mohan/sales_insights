@@ -74,6 +74,11 @@ Now we have a detailed data without errors
 
 step 4: Created dashboard with useful data patterns and content needed to be analyzed to discover the sales of the company
 
+snap shot of my dashboard
 
+![snap_dashboard](https://github.com/user-attachments/assets/95a8e1cf-3147-435d-9c1c-b03e1f7bd7fa)
 
+revenue of year 2020
+
+![revenue_2020](https://github.com/user-attachments/assets/68114bc2-1647-4d88-b4f8-26f8bb262ae9)
 
